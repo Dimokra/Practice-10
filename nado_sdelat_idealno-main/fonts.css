@@ -1,0 +1,12 @@
+@font-face {
+    font-family:"RE";
+    src: url(./fonts/Raleway-ExtraBold.woff);
+    src: url(./fonts/Raleway-ExtraBold.woff2);
+}
+
+@font-face {
+    font-family:"RR";
+    src: url(./fonts/Raleway-Regular.woff);
+    src: url(./fonts/Raleway-Regular.woff2);
+}
+
